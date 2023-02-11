@@ -48,7 +48,7 @@ if __name__ == '__main__':
             'no-limit-holdem',
             'uno',
             'gin-rummy',
-            'bridge',
+            'bridge',#TODO: add wizard
         ],
     )
 

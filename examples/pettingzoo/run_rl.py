@@ -6,7 +6,7 @@ import argparse
 
 import torch
 
-from pettingzoo.classic import (
+from pettingzoo.classic import (#TODO: add wizard
     leduc_holdem_v4,
     texas_holdem_v4,
     dou_dizhu_v4,

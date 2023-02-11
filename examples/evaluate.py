@@ -68,7 +68,7 @@ if __name__ == '__main__':
             'mahjong',
             'no-limit-holdem',
             'uno',
-            'gin-rummy',
+            'gin-rummy',#TODO: add wizard
         ],
     )
     parser.add_argument(
